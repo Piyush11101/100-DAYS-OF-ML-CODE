@@ -12,3 +12,27 @@ dataset:[ here ](https://github.com/Piyush11101/100-DAYS-OF-ML-CODE/tree/master/
 3) Doing labelEncoding and OneHotEncoding using sklearn.preprocessing library
 4) Splitting of dataset into train and test using test_train_split function of sklearn.model_selection library
 5) Standardization of data using preprocessing.StandardScaler() from sklearn library
+
+# Day2
+# Simple Linear Regression
+
+Simple linear regression is a statistical method that allows us to summarize and study relationships between two continuous (quantitative) variables:
+
+One variable, denoted x, is regarded as the predictor, explanatory, or independent variable.
+The other variable, denoted y, is regarded as the response, outcome, or dependent variable.
+
+1) Data preprocessing
+2) Applying Simple Linear Regression Model
+3) Predicting the result
+4) Visualization
+
+# Day3
+# Multiple Linear Regression
+
+Multiple linear regression (MLR), also known simply as multiple regression, is a statistical technique that uses several explanatory variables to predict the outcome of a response variable. The goal of multiple linear regression (MLR) is to model the linear relationship between the explanatory (independent) variables and response (dependent) variable.
+
+1) Data Preprocessing
+2) Avoiding Dummy Variable Trap
+3) Splitting the dataset into the Training set and Test set
+4) Fitting Multiple Linear Regression to the Training set
+5) Predicting the test set result

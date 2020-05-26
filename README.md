@@ -36,3 +36,15 @@ Multiple linear regression (MLR), also known simply as multiple regression, is a
 3) Splitting the dataset into the Training set and Test set
 4) Fitting Multiple Linear Regression to the Training set
 5) Predicting the test set result
+
+# Day4
+# Logistic Regression
+
+Logistic regression is a statistical model that in its basic form uses a logistic function to model a binary dependent variable, although many more complex extensions exist. In regression analysis, logistic regression (or logit regression) is estimating the parameters of a logistic model (a form of binary regression).
+
+1) Data Preprocessing
+2) Splitting the Data
+3) Feature Scaling
+4) Fitting Logistic Regression to the Training set
+5) Predicting the Test set results
+6) Evaluating The Predection

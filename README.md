@@ -48,3 +48,8 @@ Logistic regression is a statistical model that in its basic form uses a logisti
 4) Fitting Logistic Regression to the Training set
 5) Predicting the Test set results
 6) Evaluating The Predection
+
+# Day5
+Since logistic regression is a very special and important algorithm in machine learning so I decided to learn the geometry behind logistic regression deeply. And also I posted my first blog on medium about "Geometrical intution of Logistic Regression". You can visit the blog [here](https://medium.com/@piyushgarguno/understanding-of-logistic-regression-with-geometrical-intuition-part-i-9ec7ec8162b5?sk=6a84a9bd3237758a60b85fcf8870ef57).
+
+And in coming days, it will be about logistic regression only, will try to explore the mathematics behind the algorithm.

@@ -53,3 +53,6 @@ Logistic regression is a statistical model that in its basic form uses a logisti
 Since logistic regression is a very special and important algorithm in machine learning so I decided to learn the geometry behind logistic regression deeply. And also I posted my first blog on medium about "Geometrical intution of Logistic Regression". You can visit the blog [here](https://medium.com/@piyushgarguno/understanding-of-logistic-regression-with-geometrical-intuition-part-i-9ec7ec8162b5?sk=6a84a9bd3237758a60b85fcf8870ef57).
 
 And in coming days, it will be about logistic regression only, will try to explore the mathematics behind the algorithm.
+
+# Day6
+Today I read about the importance of sigmoid function in logistic regression. Sigmoid function is an activation function which squashes the input which is greater than 1 into the value between 0 and 1. Sigmoid function plays a very important role in Logistic Regression. You can check my blog on "Importance of sigmoid function in Logistic Regression" on [Medium](https://medium.com/@piyushgarguno/importance-of-sigmoid-activation-function-in-the-logistic-regression-model-284345e5f8dc)

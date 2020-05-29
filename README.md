@@ -56,3 +56,6 @@ And in coming days, it will be about logistic regression only, will try to explo
 
 # Day6
 Today I read about the importance of sigmoid function in logistic regression. Sigmoid function is an activation function which squashes the input which is greater than 1 into the value between 0 and 1. Sigmoid function plays a very important role in Logistic Regression. You can check my blog on "Importance of sigmoid function in Logistic Regression" on [Medium](https://medium.com/@piyushgarguno/importance-of-sigmoid-activation-function-in-the-logistic-regression-model-284345e5f8dc)
+
+# Day6
+Today I read about loss function of Logistic regression in depth, will be writing a blog on it tommorow.

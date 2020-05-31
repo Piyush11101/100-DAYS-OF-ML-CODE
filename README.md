@@ -62,3 +62,6 @@ Today I read about loss function of Logistic regression in depth and today was a
 
 # Day8
 Today I read about a different machine learning algorithm SVM(Support Vector Machine). I was able to get only the introductory part today due to some technical issues and from now on it will be theory first and then its implementation, so it might take two or three days for an algorithm but it is really necessary to learn each and every algorithm properly.
+
+# Day9
+I spent a lot of time learning geometrical intuition of SVM today and already started writing an article on it. Will be posting it tomorrow. 

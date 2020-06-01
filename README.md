@@ -65,3 +65,6 @@ Today I read about a different machine learning algorithm SVM(Support Vector Mac
 
 # Day9
 I spent a lot of time learning geometrical intuition of SVM today and already started writing an article on it. Will be posting it tomorrow. 
+
+# Day10
+Today I went deep into SVM. Got a very good intuition about Soft margin SVM and Hard margin SVM and the maths behind them.My blog is in progress and it will be completed by tomorrow by sure.

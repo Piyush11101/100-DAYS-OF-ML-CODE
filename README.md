@@ -68,3 +68,6 @@ I spent a lot of time learning geometrical intuition of SVM today and already st
 
 # Day10
 Today I went deep into SVM. Got a very good intuition about Soft margin SVM and Hard margin SVM and the maths behind them.My blog is in progress and it will be completed by tomorrow by sure.
+
+# Day11
+Done with my blog on SVM.You can check it out over [here](https://medium.com/@piyushgarguno/a-mathematical-view-of-svm-support-vector-machine-a8d0775e058b?sk=45f343d75ac385ee819bd28a3df97552). I will upload the code tomorrow.

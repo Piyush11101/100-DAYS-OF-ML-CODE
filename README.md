@@ -71,3 +71,10 @@ Today I went deep into SVM. Got a very good intuition about Soft margin SVM and 
 
 # Day11
 Done with my blog on SVM.You can check it out over [here](https://medium.com/@piyushgarguno/a-mathematical-view-of-svm-support-vector-machine-a8d0775e058b?sk=45f343d75ac385ee819bd28a3df97552). I will upload the code tomorrow.
+
+# Day12
+![](Images/EDA.png)
+
+Today I learn about EDA(Exploratory Data Analysis). Exploratory Data Analysis refers to the critical process of performing initial investigations on data so as to discover patterns,to spot anomalies,to test hypothesis and to check assumptions with the help of summary statistics and graphical representations.
+
+I am working on a dataset where I will be performing EDA and will be getting meaningful observations on it and with the help of those observation we will be able to apply machine learning algorithms on it to get meaningful insights.

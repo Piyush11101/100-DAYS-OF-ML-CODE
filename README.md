@@ -78,3 +78,7 @@ Done with my blog on SVM.You can check it out over [here](https://medium.com/@pi
 Today I learn about EDA(Exploratory Data Analysis). Exploratory Data Analysis refers to the critical process of performing initial investigations on data so as to discover patterns,to spot anomalies,to test hypothesis and to check assumptions with the help of summary statistics and graphical representations.
 
 I am working on a dataset where I will be performing EDA and will be getting meaningful observations on it and with the help of those observation we will be able to apply machine learning algorithms on it to get meaningful insights.
+
+# Day13
+
+Completed my EDA on kaggle dataset "Housing Price prediction". It is a great problem for anyone starting his preparation towards datascience. you can check my notebook. There is still too much work to do in this notebook that's why i have not made it open.
